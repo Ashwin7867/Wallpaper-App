@@ -1,4 +1,4 @@
-# Wallpaper-APp
+# Wallpaper-App
 This is a Wallpaper App developed using React Js and nodejs . Redux and React-Redux is used for state management.
 
 To start the nodejs rest api on your system , type following by opening terminal from node-rest-shop folder :
